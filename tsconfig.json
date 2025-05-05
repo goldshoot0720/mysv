@@ -1,0 +1,17 @@
+{
+	"extends": "./.svelte-kit/tsconfig.json",
+	"compilerOptions": {
+	  "allowJs": true,
+	  "checkJs": true,
+	  "esModuleInterop": true,
+	  "forceConsistentCasingInFileNames": true,
+	  "resolveJsonModule": true,
+	  "skipLibCheck": true,
+	  "sourceMap": true,
+	  "strict": true,
+	  "moduleResolution": "node",          // ✅ 改這行
+	  "module": "esnext",                  // ✅ 建議加上這行
+	  "allowSyntheticDefaultImports": true // ✅ 建議加這行保險
+	}
+  }
+  
