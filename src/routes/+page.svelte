@@ -12,9 +12,9 @@
 </script>
 距離紅鸞星動:2025-06-15，倒數{Math.abs(Math.floor((new Date()-new Date("2025-06-15"))/1000/3600/24))}天
 <br/>
-距離考試通知書:2025-06-19，倒數{Math.abs(Math.floor((new Date()-new Date("2025-06-19"))/1000/3600/24))}天
+距離考試通知書:2025-06-19，倒數{Math.abs(Math.floor((new Date()-new Date("2025-06-19"))/1000/3600/24))}天，考試延期至十月，榜示延期至明月一月十四日(二零二五雙關)
 <br/>
-The future I see，倒數{Math.abs(Math.floor((new Date()-new Date("2025-07-05"))/1000/3600/24))}天
+The future I see，主震倒數{Math.abs(Math.floor((new Date()-new Date("2025-07-05"))/1000/3600/24))}天，前震六月底，餘震至七月底，真命天子出沒?!
 <br/>
 WORLD ORDER - LET'S START WW3，三普，倒數{Math.abs(Math.ceil((new Date()-new Date("2029-09-15"))/1000/3600/24/365.25))}年
 <br/>
