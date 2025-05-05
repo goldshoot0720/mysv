@@ -1,6 +1,12 @@
 <script>
 	let buyList = [
 		{
+			name: 'Apple 特規機 Mac mini M2晶片 8核心CPU 與 10核心GPU 16G/512G SSD',
+			src: 'https://i3.momoshop.com.tw/1692459906/goodsimg/0011/310/822/11310822_B.webp',
+			link: 'https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=11310822&Area=search&mdiv=403&oid=1_13&cid=index&kw=Mac+mini+M',
+			price: 18888
+		},
+		{
 			name: 'QNAP 威聯通 TS-433-4G 4-Bay NAS',
 			src: 'https://img.pchome.com.tw/cs/items/DRAGCAA900F26I1/000001_1653560319.jpg',
 			link: 'https://24h.pchome.com.tw/prod/DRAGCA-A900F26I1',
