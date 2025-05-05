@@ -18,6 +18,10 @@ The future I see，主震倒數{Math.abs(Math.floor((new Date()-new Date("2025-0
 <br/>
 WORLD ORDER - LET'S START WW3，三普，倒數{Math.abs(Math.ceil((new Date()-new Date("2029-09-15"))/1000/3600/24/365.25))}年
 <br/>
+WORLD ORDER - LET'S END WW3，三普，倒數{Math.abs(Math.ceil((new Date()-new Date("2032-02-15"))/1000/3600/24/365.25))}年
+<br/>
+WW3，三普，期間{Math.abs(Math.ceil((new Date("2032-02-20")-new Date("2029-09-15"))/1000/3600/24))}天
+<br/>
 <button class="hover:text-blue-500" onclick={() => { showBuy10000 = !showBuy10000; }}>Buy10000</button>
 <br/>
 <button class="hover:text-blue-500" onclick={() => { showBuy370000 = !showBuy370000; }}>Buy370000</button>
