@@ -24,7 +24,7 @@ WORLD ORDER - LET'S START WW3，三普，倒數{Math.abs(Math.ceil((new Date()-n
 <br/>
 <button class="hover:text-blue-500" onclick={() => { showBuySoftwareHistory = !showBuySoftwareHistory; }}>BuySoftwareHistory</button>
 <br/>
-<button class="hover:text-blue-500" onclick={() => { showAnimeOPED = !showAnimeOPED; }}>2025 TVアニメ OP ED</button>
+<button class="hover:text-blue-500" onclick={() => { showAnimeOPED = !showAnimeOPED; }}>2021~2025 TVアニメ OP ED</button>
 <br/>
 <button class="hover:text-blue-500" onclick={() => { showWeartherWeek = !showWeartherWeek; }}>中壢區一週天氣預報</button>
 <br/>
