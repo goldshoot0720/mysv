@@ -31,6 +31,12 @@
 			price: 6950
 		},
 		{
+			name: 'Seagate 希捷IronWolf 4TB NAS硬碟 ST4000VN006',
+			src: 'https://img.pchome.com.tw/cs/items/DCBE21A900F34Z0/000001_1746060009.jpg',
+			link: 'https://24h.pchome.com.tw/prod/DCBE21-A900F34Z0',
+			price: 3777*2
+		},
+		{
 			name: 'ACER 宏碁Nitro N50-650系列-i5處理器/16G記憶體/512G SSD/RTX4060顯卡/Win11家用版電腦(UD.E3GTA.00K)',
 			src: 'https://img.pchome.com.tw/cs/items/DSAAJNA900GMGY9/l000003_1742354236.jpg',
 			link: 'https://24h.pchome.com.tw/prod/DSAAJN-A900GMGY9',
