@@ -1,6 +1,12 @@
 <script>
 	let buyList = [
 		{
+			name: 'QNAP 威聯通 TS-433-4G 4-Bay NAS',
+			src: 'https://img.pchome.com.tw/cs/items/DRAGCAA900F26I1/000001_1653560319.jpg',
+			link: 'https://24h.pchome.com.tw/prod/DRAGCA-A900F26I1',
+			price: 11900
+		},
+		{
 			name: 'Apple 蘋果iMac 24 吋 4.5K Retina 顯示器 M4 晶片配備 10核心CPU 10核心GPU 與 16核心 16GB 記憶體 512GB SSD',
 			src: 'https://img.pchome.com.tw/cs/items/DYAJEUA900I160J/001001_1730694344.jpg',
 			link: 'https://24h.pchome.com.tw/prod/DYAJEU-A900I160J',
