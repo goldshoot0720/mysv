@@ -111,7 +111,7 @@
 <ul>
   {#each fileList as file}
     <li>
-      <a href="javascript:void(0)" on:click={() => playVideo(file.url, file.name)}>
+      <a class="hover:text-blue-500" href="javascript:void(0)" on:click={() => playVideo(file.url, file.name)}>
         {file.name}
       </a>
     </li>
